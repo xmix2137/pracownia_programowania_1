@@ -9,5 +9,4 @@ b = int(input("Zgaduj jaka to liczba, i mi ją podaj: "))
 if b == a:
     print("Brawo udało ci się zgadnąć")
 else:
-    print("Niestety nie udało się, liczba to to:", a)
-
+    print("Niestety nie udało się, liczba to:", a)
